@@ -52,7 +52,7 @@ its own limits.
 
 ---
 
-## 🛡️ Security Engineering
+## 🔒 Security Engineering
 
 **Detection engineering.** Eight Splunk detections written against real Sysmon and Windows Security
 telemetry from a 3-VM `SOCLAB.LOCAL` domain, with a dedicated Kali attacker generating genuine
